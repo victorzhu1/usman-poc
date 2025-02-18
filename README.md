@@ -2,8 +2,8 @@
 
 ## Overview
 
-You are given an Excel workbook with multiple worksheets and tables/charts. 3 charts will be **linked** into a PowerPoint presentation. Your task is to:
-1. Make a button that triggers the serialization of the currently selected chart.
+You are given **2 Excel workbooks** with multiple worksheets and tables/charts. 3 charts will be **linked** into a PowerPoint presentation from various sheets/workbooks. Your task is to:
+1. Make a button that triggers the serialization of the **currently selected chart**.
 2. Find the underlying data range of **that specific chart** in the linked Excel sheet.
 3. **Serialize that data** in an LLM-friendly way using the Excel add-in.
 4. Send the serialization to an external API of your choice.
@@ -11,7 +11,7 @@ You are given an Excel workbook with multiple worksheets and tables/charts. 3 ch
 ## Hard Requirements
 - A functional PowerPoint add-in where the user can trigger the serialization.
 - A supporting Excel add-in that can serialize the right chart.
-- Evidence of external API recieving the serialization of that chart.
+- Evidence of external API recieving the serialization of that chart (just printing it out is sufficient).
 
 ## Optional/Bonus requirements
 - Simulate a **code** response from the API to trigger a change on the chart's data. For example, make the chart display bars corresponding to years 1994, 1993, and 1991 with the values in descending order.
