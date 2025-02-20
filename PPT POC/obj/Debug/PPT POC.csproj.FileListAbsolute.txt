@@ -1,0 +1,14 @@
+E:\Freelance\PPT POC\bin\Debug\PPT POC.dll
+E:\Freelance\PPT POC\bin\Debug\PPT POC.pdb
+E:\Freelance\PPT POC\bin\Debug\PPT POC.dll.manifest
+E:\Freelance\PPT POC\bin\Debug\PPT POC.vsto
+E:\Freelance\PPT POC\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Freelance\PPT POC\obj\Debug\PPT POC.csproj.AssemblyReference.cache
+E:\Freelance\PPT POC\obj\Debug\PPT_POC.Properties.Resources.resources
+E:\Freelance\PPT POC\obj\Debug\PPT POC.csproj.GenerateResource.cache
+E:\Freelance\PPT POC\obj\Debug\PPT POC.csproj.CoreCompileInputs.cache
+E:\Freelance\PPT POC\obj\Debug\PPT POC.csproj.CopyComplete
+E:\Freelance\PPT POC\obj\Debug\PPT POC.dll
+E:\Freelance\PPT POC\obj\Debug\PPT POC.pdb
+E:\Freelance\PPT POC\bin\Debug\Newtonsoft.Json.dll
+E:\Freelance\PPT POC\bin\Debug\Newtonsoft.Json.xml
